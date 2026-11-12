@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student passionate abou
 
 ## 📂 My Projects
 
-- [Personal Portfolio Website](https://github.com/Amirzeb371/Amirzeb-portfolio)
+- [Personal Portfolio Website](https://github.com/Amirzeb371/Amirzezb-portfolio))
 - Bank Management System (C++ OOP) — In Progress
 
 ## 📚 My Learning Goals
