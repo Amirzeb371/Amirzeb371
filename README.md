@@ -19,7 +19,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Amirzeb731</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h4 align="center">Welcome to my Github profile! I am Software Engineering Student passionate about programming, web development and learning new technologies</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirzeb371&label=Profile%20views&color=0e75b6&style=flat" alt="amirzeb371" /> </p>
 
