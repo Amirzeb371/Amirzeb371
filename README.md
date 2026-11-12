@@ -1,66 +1,40 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-0
-Fork on GitHub
-0
+# Hi, I'm Amir Zeb 👋
 
-back to edit
+### Software Engineering Student | Aspiring Web Developer
 
-copy-markdown
+Welcome to my GitHub profile! I'm a Software Engineering student passionate about programming, web development, and learning new technologies.
 
-download markdown
+## 👨‍💻 About Me
 
-download backup
+- 🎓 BS Software Engineering Student at FAST-NUCES
+- 🌱 Currently learning Web Development
+- 💻 Interested in C++ and Object-Oriented Programming
+- 🚀 Exploring HTML, CSS, and JavaScript
+- 🎯 Working towards becoming a professional Software Engineer
 
-preview
-<h1 align="center">Hi 👋, I'm Amirzeb731</h1>
-<h4 align="center">Welcome to my Github profile! I am Software Engineering Student passionate about programming, web development and learning new technologies</h4>
+## 🛠️ Technical Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirzeb371&label=Profile%20views&color=0e75b6&style=flat" alt="amirzeb371" /> </p>
+- **Languages:** C++, HTML
+- **Frontend:** HTML, CSS
+- **Currently Learning:** JavaScript
+- **Tools:** Git, GitHub, VS Code, Linux
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirzeb371" alt="amirzeb371" /></a> </p>
+## 📂 My Projects
 
-- 🔭 I’m currently working on **Portfolio website**
+- [Personal Portfolio Website](https://github.com/Amirzeb371/Amirzeb-portfolio)
+- Bank Management System (C++ OOP) — In Progress
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📚 My Learning Goals
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Improve my programming skills.
+- Master Frontend Web Development.
+- Build real-world projects.
+- Contribute to open-source projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirzeb371&show_icons=true&locale=en&layout=compact" alt="amirzeb371" /></p>
+## 🤝 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirzeb371&show_icons=true&locale=en" alt="amirzeb371" /></p>
+Feel free to explore my repositories and follow my learning journey!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirzeb371&" alt="amirzeb371" /></p>
+---
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+⭐ Thanks for visiting my profile!
